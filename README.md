@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Miguel 👋
 
 <!--
 **miguel-herrog/miguel-herrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola, soy Miguel 👋
-Estudiante de DAM en Salamanca con pasión por el desarrollo y los eSports.
+Estudiante de DAM en Salamanca con pasión por el desarrollo, los videojuegos y los eSports.
 
-- 🔭 Trabajando actualmente en: Conceptos web para equipos de Valorant.
 - 🌱 Aprendiendo: Java y arquitecturas web.
-- 🎯 Objetivo: Unir tecnología y competición.
-- ⚡ Dato curioso: Puedo centrar un div y carrilear una ronda eco.
+- 🎯 Objetivo: Desarrollo de videojuegos.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
