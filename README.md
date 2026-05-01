@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Estudiante de DAM en Salamanca con pasión por el desarrollo, los videojuegos y los eSports.
-
-- 🌱 Aprendiendo: Java y arquitecturas web.
-- 🎯 Objetivo: Desarrollo de videojuegos.
+Software Development student in Spain 🇪🇸 | 
+🎯Passionate about OOP, game dev, and building systems. 
+🌱 Currently learning: Java, C#, and Game Architecture.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c#-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
