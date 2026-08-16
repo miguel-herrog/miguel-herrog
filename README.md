@@ -1,28 +1,17 @@
-## Hi, I'm Miguel 👋
+### Hi, I'm Miguel 👋
 
-<!--
-**miguel-herrog/miguel-herrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Development Student | Backend, Infrastructure & Low-Level Programming**
 
-Here are some ideas to get you started:
+Passionate about object-oriented programming, system architecture, and understanding how hardware and software interact. I build things to learn how they work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Software Development student in Spain 🇪🇸 | 
+* 🌍 **Looking for:** A 3-month international Tech Internship in Europe for **Spring 2027** (Zero employment cost via **Erasmus+** grant).
+* 🔭 **Recently completed:** A fully functional [CHIP-8 Virtual Machine from scratch in pure C](https://github.com/miguel-herrog/CHIP-8-Interpreter).
+* 🌱 **Next steps:** Planning a custom homebrew game to run on my interpreter & completing the Google AI Professional Certificate.
+* ☁️ **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900).
 
-🎯Passionate about OOP, game dev, and building systems. 
+### 🛠️ Tech Stack & Tools
+* **Core Languages:** C, Java, SQL
+* **Cloud & Architecture:** Microsoft Azure
+* **Libraries:** SDL2 (Hardware-accelerated graphics)
 
-🌱 Currently learning: Java, C#, and Game Architecture.
-
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-dev)
