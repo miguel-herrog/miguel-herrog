@@ -6,7 +6,6 @@ Passionate about object-oriented programming, system architecture, and understan
 
 * 🌍 **Looking for:** A 3-month international Tech Internship in Europe for **Spring 2027** (Zero employment cost via **Erasmus+** grant).
 * 🔭 **Recently completed:** A fully functional [CHIP-8 Virtual Machine from scratch in pure C](https://github.com/miguel-herrog/CHIP-8-Interpreter).
-* 🌱 **Next steps:** Planning a custom homebrew game to run on my interpreter & completing the Google AI Professional Certificate.
 * ☁️ **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900).
 
 ### 🛠️ Tech Stack & Tools
